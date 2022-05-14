@@ -253,7 +253,7 @@ a {
 		@extend .parent-nav-link-padding;
 		font-size: 30px;
 		text-transform: uppercase;
-		background: url(../img/logo.png) no-repeat left center;
+		background: url() no-repeat left center;
 		top: 8px;
 		position: relative;
 		width: 160px;
@@ -277,7 +277,7 @@ a {
 			position: relative;
 	  	width: 160px;
 			height: 43px;
-	    background: url(../img/logo@2x.png) no-repeat left center;
+	    background: url() no-repeat left center;
 	    background-size: cover;
 		}
 
